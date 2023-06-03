@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_image_post_single_image_posts",
+  "info": {
+    "displayName": "single-image-post"
+  },
+  "options": {},
+  "attributes": {
+    "thumbnail": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "description": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}

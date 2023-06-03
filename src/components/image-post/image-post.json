@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_image_post_image_posts",
+  "info": {
+    "displayName": "image-post"
+  },
+  "options": {},
+  "attributes": {
+    "fdda": {
+      "type": "string"
+    },
+    "fa": {
+      "type": "richtext"
+    }
+  }
+}

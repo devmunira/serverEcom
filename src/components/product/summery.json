@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_product_summeries",
+  "info": {
+    "displayName": "summery"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "summery": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}

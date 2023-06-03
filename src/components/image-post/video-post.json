@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_image_post_video_posts",
+  "info": {
+    "displayName": "video-post"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext"
+    },
+    "iframeurl": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
